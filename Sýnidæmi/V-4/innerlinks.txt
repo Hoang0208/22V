@@ -3,7 +3,7 @@ Efnisyfirlit (innri og ytri tenglar)
 <!------- HEADER texti hér 
 
 Efnisyfirlit
-Verkefni 5.2
+Verkefni 4.2
 Bakgrunnar Efnisyfirlit
 
 ----------------------->
